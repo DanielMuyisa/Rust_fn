@@ -1,0 +1,14 @@
+! une macro: code generer par la console
+
+les vars ==> binding
+variable nutable
+
+let mut ag = 10;
+un biding, un seul propr
+
+
+S> passer une ref a une fx
+
+&variable ==> transfert d la var
+
+
