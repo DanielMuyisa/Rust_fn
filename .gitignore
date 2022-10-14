@@ -1,5 +1,1 @@
 *.explaining
-**/cargo/target
-/cargo/target
-/cargo/target/
-cargo/target/
