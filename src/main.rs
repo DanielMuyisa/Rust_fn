@@ -34,6 +34,7 @@ fn controlFlow(number: i32) {
 
 fn loops() {
     let mut counter = 0;
+    let increment = -1;
 
     let result = loop {
         counter += 1;
