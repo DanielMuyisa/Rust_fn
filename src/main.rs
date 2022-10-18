@@ -60,7 +60,7 @@ fn loopsImpr() {
             if count == 10 {
                 break 'counting_up;
             }
-            remaining -= 1;
+            remaining -= 2;
         }
     }
     println!("end of loop : {count}");
