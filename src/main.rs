@@ -70,3 +70,7 @@ fn loopsImpr() {
 fn function_name() {
     // function body
 }
+
+fn get_pi() -> f64 {
+    22.0 / 7.0
+}
