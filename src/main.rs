@@ -66,3 +66,7 @@ fn loopsImpr() {
     }
     println!("end of loop : {count}");
 }
+
+fn function_name() {
+    // function body
+}
